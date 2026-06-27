@@ -1,3 +1,4 @@
+# https://codeforces.com/gym/100093/attachments
 f = open("sum2.in", "r")
 res = open("sum2.out", "w")
 n = int(f.readline())

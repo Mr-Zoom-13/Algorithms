@@ -1,3 +1,5 @@
+# https://codeforces.com/group/1rv4rhCsHp/contest/319055/problem/D
+
 import math
 
 n = int(input())

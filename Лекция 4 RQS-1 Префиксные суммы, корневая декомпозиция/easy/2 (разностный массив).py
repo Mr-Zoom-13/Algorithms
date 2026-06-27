@@ -1,3 +1,5 @@
+# https://codeforces.com/group/1rv4rhCsHp/contest/319055/problem/D
+
 n = int(input())
 a = list(map(int, input().split()))
 q = int(input())
