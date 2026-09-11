@@ -38,7 +38,8 @@ class MyHeap:
             self.sift_down(cur_index, n)
 
     def heapify(self):
-        pass
+        for index in range(len(self.arr) // 2 - 1, -1, -1):
+            self.sift_down(index, len(self.arr))
 
 
 # testi = [7, 8, 3, 10, 7, 2, 3, 1, 4, 5]
